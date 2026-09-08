@@ -81,5 +81,10 @@
     "plugins": [
       "html"
     ]
+  },
+  "overrides": {
+    "websocket-stream": {
+      "ws": "^6.2.6"
+    }
   }
 }
